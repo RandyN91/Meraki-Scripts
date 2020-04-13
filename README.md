@@ -6,4 +6,4 @@ Some pull info such as network telemetry/statistics and device attributes , othe
 
 For example , this is the Cellular Script returning the Signal % of all of Cell USB Modems on Meraki MX's 
 
-![Image description](http://lh3.googleusercontent.com/6TdgNRES008lFtAW1yk2cnCOwVes8-a9NrQntptK-MoFemVUP4vpTP-7VeNJh7Mx5jkFUWLBES5XgQPFKkdMC1WJFAMFL9-Swz0_2eokrUsWs0LVR3DTCZGWq3TCblNUbZF6JSG1wfCwRBSyYt-cIIbaOpjWcIocms-uxY2D9SYH7Zsw-EClRZboL8nFoNNZSvFW9A-c85J70giCv8YTm46DH-teav9EK_BqiTVnXSMrDxrd-Ub8DU5sfcxgqptQv-mEDZ87b9BwUEcKzxhO3-4uq0LrvO-CxkcdNA0WMYct8sFGePsxnz-c2KTphl7SwXx23IIdEKcY5vi2v7ZFJCGyN-rnsIB9hdKfmpdmhj8yITMQB_-3Ykiic1uoExCtjLGKjA-nvfn-dEg9EAqLWAOr9cSpYMPXn1a4hyXtgJVSbr8oCPUkmjkVY9WM_ahk-xrrKxTL6URjDalN0roe8OZgfTsRjWy1GvZa7PM_T1dHUoAR4vZqBgctoZ-1tREPmzPtNx4M6X13aqh9V5t8Mb1igJPsA0IpHSk1lb_Oud09mZJiIM2G2yg4KHT-OYxbnsKW90nDh2DEWBQ9HcdbYGJ-Z4PzubAr7g9_7vUmSCHCAmDQWOiZjYQhQTRcDZfQqgUWbBaSah4DIIhoyumgFpGZ5oLeH1RXUqSfavU2IFyj6gQLCSEoZ2lVd5iC-JE=w980-h727-no)
+![Example of the Cell Signal Script Executing](https://www.roamingviews.com/wp-content/uploads/2020/04/Meraki.jpg)
